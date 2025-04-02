@@ -214,5 +214,32 @@
       "latitude": 51.535487,
       "longitude": 4.450987
     }
+  },
+  {
+    "naam": "KFC Bergen op Zoom",
+    "adres": "Bergse Heide 1, Bergen op Zoom, Nederland",
+    "telefoon": "NVT",
+    "coördinaten": {
+      "latitude": 51.509,
+      "longitude": 4.305
+    }
+  },
+  {
+    "naam": "KFC Antwerpen Keyserlei",
+    "adres": "De Keyserlei 58, 2000 Antwerpen, België",
+    "telefoon": "NVT",
+    "coördinaten": {
+      "latitude": 51.2172,
+      "longitude": 4.4203
+    }
+  },
+  {
+    "naam": "KFC Antwerpen Jan Blomstraat",
+    "adres": "Jan Blomstraat 4, 2000 Antwerpen, België",
+    "telefoon": "NVT",
+    "coördinaten": {
+      "latitude": 51.2201,
+      "longitude": 4.3997
+    }
   }
 ]
