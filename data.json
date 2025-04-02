@@ -151,5 +151,68 @@
       "latitude": 52.0705,
       "longitude": 4.3023
     }
+  },
+  {
+    "naam": "KFC Capelle aan den IJssel",
+    "adres": "Rhijnspoor 300, 2901 LC Capelle aan den IJssel",
+    "telefoon": "010-4472268",
+    "coördinaten": {
+      "latitude": 51.9251993,
+      "longitude": 4.5668268
+    }
+  },
+  {
+    "naam": "KFC Marconiplein",
+    "adres": "Marconiplein 1, 3029 AK Rotterdam",
+    "telefoon": "010-4766960",
+    "coördinaten": {
+      "latitude": 51.912222,
+      "longitude": 4.432083
+    }
+  },
+  {
+    "naam": "KFC Spijkenisse",
+    "adres": "Sportlaan 17, 3202 VW Spijkenisse",
+    "telefoon": "0181-623456",
+    "coördinaten": {
+      "latitude": 51.853533,
+      "longitude": 4.307083
+    }
+  },
+  {
+    "naam": "KFC Eindhoven Centrum",
+    "adres": "Marktstraat 1, 5611 AE Eindhoven",
+    "telefoon": "NVT",
+    "coördinaten": {
+      "latitude": 51.439264,
+      "longitude": 5.478633
+    }
+  },
+  {
+    "naam": "KFC Eindhoven Woensel",
+    "adres": "Winkelcentrum Woensel 302, 5625 AG Eindhoven",
+    "telefoon": "NVT",
+    "coördinaten": {
+      "latitude": 51.469485,
+      "longitude": 5.469964
+    }
+  },
+  {
+    "naam": "KFC Tilburg",
+    "adres": "Heuvel 19, 5038 CP Tilburg",
+    "telefoon": "NVT",
+    "coördinaten": {
+      "latitude": 51.556364,
+      "longitude": 5.090844
+    }
+  },
+  {
+    "naam": "KFC Roosendaal",
+    "adres": "Rucphensebaan 16, 4706 PJ Roosendaal",
+    "telefoon": "NVT",
+    "coördinaten": {
+      "latitude": 51.535487,
+      "longitude": 4.450987
+    }
   }
 ]
