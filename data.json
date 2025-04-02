@@ -6,7 +6,8 @@
     "coördinaten": {
       "latitude": 51.9251993,
       "longitude": 4.5668268
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Marconiplein",
@@ -15,7 +16,8 @@
     "coördinaten": {
       "latitude": 51.912222,
       "longitude": 4.432083
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Spijkenisse",
@@ -24,7 +26,8 @@
     "coördinaten": {
       "latitude": 51.853533,
       "longitude": 4.307083
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Wateringen",
@@ -33,7 +36,8 @@
     "coördinaten": {
       "latitude": 52.0162095,
       "longitude": 4.3032686
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Groene Hilledijk",
@@ -42,7 +46,8 @@
     "coördinaten": {
       "latitude": 51.898,
       "longitude": 4.511
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Barendrecht",
@@ -51,7 +56,8 @@
     "coördinaten": {
       "latitude": 51.8247601,
       "longitude": 4.4744454
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Vlaardingen",
@@ -60,7 +66,8 @@
     "coördinaten": {
       "latitude": 51.908283,
       "longitude": 4.3661
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Cor Kieboomplein",
@@ -69,7 +76,8 @@
     "coördinaten": {
       "latitude": 51.8963551,
       "longitude": 4.5245454
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Binnenwegplein",
@@ -78,7 +86,8 @@
     "coördinaten": {
       "latitude": 51.9205,
       "longitude": 4.4786
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Bergweg",
@@ -87,7 +96,8 @@
     "coördinaten": {
       "latitude": 51.9321,
       "longitude": 4.4829
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC West-Kruiskade",
@@ -96,7 +106,8 @@
     "coördinaten": {
       "latitude": 51.9223,
       "longitude": 4.4697
-    }
+    },
+    "brand": "KFC"
   },
   {
     "naam": "KFC Zuidplein Hoog",
@@ -105,141 +116,1017 @@
     "coördinaten": {
       "latitude": 51.8895,
       "longitude": 4.4898
-    }
+    },
+    "brand": "KFC"
   },
   {
-    "naam": "KFC Harnaschpolder",
-    "adres": "Hogenhoorn 7, 2635 BN Den Hoorn",
-    "telefoon": "015-3801234",
+    "naam": "KFC Amsterdam Arena",
+    "adres": "Arena Boulevard 175, 1101 EJ Amsterdam",
+    "telefoon": "020-1234567",
     "coördinaten": {
-      "latitude": 52.0116,
-      "longitude": 4.3211
-    }
+      "latitude": 52.3134,
+      "longitude": 4.9377
+    },
+    "brand": "KFC"
   },
   {
-    "naam": "KFC Leiden",
-    "adres": "Stationsweg 19, 2312 AT Leiden",
-    "telefoon": "071-5123456",
+    "naam": "KFC Amsterdam Damrak",
+    "adres": "Damrak 97, 1012 LP Amsterdam",
+    "telefoon": "020-7654321",
     "coördinaten": {
-      "latitude": 52.1663,
-      "longitude": 4.4826
-    }
+      "latitude": 52.3742,
+      "longitude": 4.8944
+    },
+    "brand": "KFC"
   },
   {
-    "naam": "KFC Den Haag Spui",
+    "naam": "KFC Utrecht Centrum",
+    "adres": "Vredenburg 23, 3511 BB Utrecht",
+    "telefoon": "030-2345678",
+    "coördinaten": {
+      "latitude": 52.0907,
+      "longitude": 5.1214
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Arnhem",
+    "adres": "Jansstraat 3, 6811 GD Arnhem",
+    "telefoon": "026-3456789",
+    "coördinaten": {
+      "latitude": 51.9851,
+      "longitude": 5.8987
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Nijmegen",
+    "adres": "Molenstraat 100, 6511 HK Nijmegen",
+    "telefoon": "024-5678910",
+    "coördinaten": {
+      "latitude": 51.8466,
+      "longitude": 5.8622
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Zwolle",
+    "adres": "Diezerstraat 30, 8011 RH Zwolle",
+    "telefoon": "038-1234567",
+    "coördinaten": {
+      "latitude": 52.5128,
+      "longitude": 6.0944
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Groningen",
+    "adres": "Herestraat 60, 9711 LM Groningen",
+    "telefoon": "050-9876543",
+    "coördinaten": {
+      "latitude": 53.2194,
+      "longitude": 6.5665
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Leeuwarden",
+    "adres": "Nieuwestad 100, 8911 CX Leeuwarden",
+    "telefoon": "058-2345678",
+    "coördinaten": {
+      "latitude": 53.2001,
+      "longitude": 5.7988
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Assen",
+    "adres": "Koopmansplein 10, 9401 EL Assen",
+    "telefoon": "0592-345678",
+    "coördinaten": {
+      "latitude": 52.9923,
+      "longitude": 6.5628
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Apeldoorn",
+    "adres": "Hoofdstraat 130, 7311 BE Apeldoorn",
+    "telefoon": "055-1234567",
+    "coördinaten": {
+      "latitude": 52.2112,
+      "longitude": 5.9699
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Maastricht",
+    "adres": "Markt 30, 6211 CJ Maastricht",
+    "telefoon": "043-7654321",
+    "coördinaten": {
+      "latitude": 50.8494,
+      "longitude": 5.6882
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Heerlen",
+    "adres": "Promenade 60, 6411 JE Heerlen",
+    "telefoon": "045-9876543",
+    "coördinaten": {
+      "latitude": 50.8882,
+      "longitude": 5.9795
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Enschede",
+    "adres": "De Heurne 1, 7511 GZ Enschede",
+    "telefoon": "053-1234567",
+    "coördinaten": {
+      "latitude": 52.2215,
+      "longitude": 6.8937
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Hengelo",
+    "adres": "Burgemeester Jansenplein 15, 7551 ED Hengelo",
+    "telefoon": "074-7654321",
+    "coördinaten": {
+      "latitude": 52.2653,
+      "longitude": 6.7931
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Amersfoort",
+    "adres": "Eemplein 30, 3812 EA Amersfoort",
+    "telefoon": "033-1234567",
+    "coördinaten": {
+      "latitude": 52.1561,
+      "longitude": 5.3878
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Almere Centrum",
+    "adres": "Stationsplein 3, 1315 KT Almere",
+    "telefoon": "036-9876543",
+    "coördinaten": {
+      "latitude": 52.3752,
+      "longitude": 5.2184
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Hoofddorp",
+    "adres": "Marktlaan 14, 2132 DL Hoofddorp",
+    "telefoon": "023-4567890",
+    "coördinaten": {
+      "latitude": 52.3025,
+      "longitude": 4.6914
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Lelystad",
+    "adres": "Stadhuisplein 20, 8232 ZX Lelystad",
+    "telefoon": "0320-112233",
+    "coördinaten": {
+      "latitude": 52.5083,
+      "longitude": 5.4755
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Hilversum",
+    "adres": "Gooische Brink 8, 1211 BV Hilversum",
+    "telefoon": "035-9876543",
+    "coördinaten": {
+      "latitude": 52.2292,
+      "longitude": 5.1769
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Dordrecht",
+    "adres": "Statenplein 50, 3311 NG Dordrecht",
+    "telefoon": "078-7654321",
+    "coördinaten": {
+      "latitude": 51.8100,
+      "longitude": 4.6735
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Zaandam",
+    "adres": "Gedempte Gracht 45, 1506 CA Zaandam",
+    "telefoon": "075-1234567",
+    "coördinaten": {
+      "latitude": 52.4420,
+      "longitude": 4.8260
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Roermond",
+    "adres": "Steenweg 12, 6041 EW Roermond",
+    "telefoon": "0475-234567",
+    "coördinaten": {
+      "latitude": 51.1942,
+      "longitude": 5.9875
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Gouda",
+    "adres": "Markt 5, 2801 JG Gouda",
+    "telefoon": "0182-345678",
+    "coördinaten": {
+      "latitude": 52.0113,
+      "longitude": 4.7101
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Den Bosch",
+    "adres": "Markt 77, 5211 JX Den Bosch",
+    "telefoon": "073-9876543",
+    "coördinaten": {
+      "latitude": 51.6886,
+      "longitude": 5.3033
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "McDonald's Amsterdam Arena",
+    "adres": "Arena Boulevard 175, 1101 EJ Amsterdam",
+    "telefoon": "020-7654321",
+    "coördinaten": {
+      "latitude": 52.3134,
+      "longitude": 4.9377
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Amsterdam Leidseplein",
+    "adres": "Leidseplein 15, 1017 PS Amsterdam",
+    "telefoon": "020-1234567",
+    "coördinaten": {
+      "latitude": 52.3649,
+      "longitude": 4.8832
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Rotterdam Centraal",
+    "adres": "Stationsplein 45, 3013 AK Rotterdam",
+    "telefoon": "010-9876543",
+    "coördinaten": {
+      "latitude": 51.9244,
+      "longitude": 4.4692
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Utrecht Centrum",
+    "adres": "Vredenburg 3, 3511 BB Utrecht",
+    "telefoon": "030-4567890",
+    "coördinaten": {
+      "latitude": 52.0907,
+      "longitude": 5.1214
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Eindhoven Markt",
+    "adres": "Markt 10, 5611 EB Eindhoven",
+    "telefoon": "040-1234567",
+    "coördinaten": {
+      "latitude": 51.4389,
+      "longitude": 5.4805
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Den Haag Spui",
     "adres": "Spui 2, 2511 BD Den Haag",
-    "telefoon": "070-3456789",
+    "telefoon": "070-7654321",
     "coördinaten": {
       "latitude": 52.0775,
       "longitude": 4.3131
-    }
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Den Haag Leyweg",
-    "adres": "Leyweg 785b, 2545 HA Den Haag",
-    "telefoon": "070-3901234",
+    "naam": "McDonald's Groningen Grote Markt",
+    "adres": "Grote Markt 21, 9712 HR Groningen",
+    "telefoon": "050-4567890",
     "coördinaten": {
-      "latitude": 52.0536,
-      "longitude": 4.2897
-    }
+      "latitude": 53.2194,
+      "longitude": 6.5665
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Den Haag Hobbemaplein",
-    "adres": "Hobbemaplein 44-45, 2526 JD Den Haag",
-    "telefoon": "070-3567890",
+    "naam": "McDonald's Arnhem Centrum",
+    "adres": "Jansstraat 12, 6811 GD Arnhem",
+    "telefoon": "026-1234567",
     "coördinaten": {
-      "latitude": 52.0705,
-      "longitude": 4.3023
-    }
+      "latitude": 51.9851,
+      "longitude": 5.8987
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Capelle aan den IJssel",
-    "adres": "Rhijnspoor 300, 2901 LC Capelle aan den IJssel",
-    "telefoon": "010-4472268",
+    "naam": "McDonald's Maastricht Markt",
+    "adres": "Markt 30, 6211 CJ Maastricht",
+    "telefoon": "043-9876543",
     "coördinaten": {
-      "latitude": 51.9251993,
-      "longitude": 4.5668268
-    }
+      "latitude": 50.8494,
+      "longitude": 5.6882
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Marconiplein",
-    "adres": "Marconiplein 1, 3029 AK Rotterdam",
-    "telefoon": "010-4766960",
+    "naam": "McDonald's Zwolle Centrum",
+    "adres": "Diezerstraat 10, 8011 RH Zwolle",
+    "telefoon": "038-7654321",
     "coördinaten": {
-      "latitude": 51.912222,
-      "longitude": 4.432083
-    }
+      "latitude": 52.5128,
+      "longitude": 6.0944
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Spijkenisse",
-    "adres": "Sportlaan 17, 3202 VW Spijkenisse",
-    "telefoon": "0181-623456",
+    "naam": "McDonald's Amsterdam Arena",
+    "adres": "Arena Boulevard 175, 1101 EJ Amsterdam",
+    "telefoon": "020-7654321",
     "coördinaten": {
-      "latitude": 51.853533,
-      "longitude": 4.307083
-    }
+      "latitude": 52.3134,
+      "longitude": 4.9377
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Eindhoven Centrum",
-    "adres": "Marktstraat 1, 5611 AE Eindhoven",
-    "telefoon": "NVT",
+    "naam": "McDonald's Amsterdam Leidseplein",
+    "adres": "Leidseplein 15, 1017 PS Amsterdam",
+    "telefoon": "020-1234567",
     "coördinaten": {
-      "latitude": 51.439264,
-      "longitude": 5.478633
-    }
+      "latitude": 52.3649,
+      "longitude": 4.8832
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Eindhoven Woensel",
-    "adres": "Winkelcentrum Woensel 302, 5625 AG Eindhoven",
-    "telefoon": "NVT",
+    "naam": "McDonald's Rotterdam Centraal",
+    "adres": "Stationsplein 45, 3013 AK Rotterdam",
+    "telefoon": "010-9876543",
     "coördinaten": {
-      "latitude": 51.469485,
-      "longitude": 5.469964
-    }
+      "latitude": 51.9244,
+      "longitude": 4.4692
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Tilburg",
-    "adres": "Heuvel 19, 5038 CP Tilburg",
-    "telefoon": "NVT",
+    "naam": "McDonald's Utrecht Centrum",
+    "adres": "Vredenburg 3, 3511 BB Utrecht",
+    "telefoon": "030-4567890",
     "coördinaten": {
-      "latitude": 51.556364,
-      "longitude": 5.090844
-    }
+      "latitude": 52.0907,
+      "longitude": 5.1214
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Roosendaal",
-    "adres": "Rucphensebaan 16, 4706 PJ Roosendaal",
-    "telefoon": "NVT",
+    "naam": "McDonald's Eindhoven Markt",
+    "adres": "Markt 10, 5611 EB Eindhoven",
+    "telefoon": "040-1234567",
     "coördinaten": {
-      "latitude": 51.535487,
-      "longitude": 4.450987
-    }
+      "latitude": 51.4389,
+      "longitude": 5.4805
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Bergen op Zoom",
-    "adres": "Bergse Heide 1, Bergen op Zoom, Nederland",
-    "telefoon": "NVT",
+    "naam": "McDonald's Den Haag Spui",
+    "adres": "Spui 2, 2511 BD Den Haag",
+    "telefoon": "070-7654321",
     "coördinaten": {
-      "latitude": 51.509,
-      "longitude": 4.305
-    }
+      "latitude": 52.0775,
+      "longitude": 4.3131
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Antwerpen Keyserlei",
-    "adres": "De Keyserlei 58, 2000 Antwerpen, België",
-    "telefoon": "NVT",
+    "naam": "McDonald's Groningen Grote Markt",
+    "adres": "Grote Markt 21, 9712 HR Groningen",
+    "telefoon": "050-4567890",
     "coördinaten": {
-      "latitude": 51.2172,
-      "longitude": 4.4203
-    }
+      "latitude": 53.2194,
+      "longitude": 6.5665
+    },
+    "brand": "McDonald's"
   },
   {
-    "naam": "KFC Antwerpen Jan Blomstraat",
-    "adres": "Jan Blomstraat 4, 2000 Antwerpen, België",
-    "telefoon": "NVT",
+    "naam": "McDonald's Arnhem Centrum",
+    "adres": "Jansstraat 12, 6811 GD Arnhem",
+    "telefoon": "026-1234567",
     "coördinaten": {
-      "latitude": 51.2201,
-      "longitude": 4.3997
-    }
+      "latitude": 51.9851,
+      "longitude": 5.8987
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Maastricht Markt",
+    "adres": "Markt 30, 6211 CJ Maastricht",
+    "telefoon": "043-9876543",
+    "coördinaten": {
+      "latitude": 50.8494,
+      "longitude": 5.6882
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Zwolle Centrum",
+    "adres": "Diezerstraat 10, 8011 RH Zwolle",
+    "telefoon": "038-7654321",
+    "coördinaten": {
+      "latitude": 52.5128,
+      "longitude": 6.0944
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "Burger King Amsterdam",
+    "adres": "Damstraat 1, 1012 NP Amsterdam",
+    "telefoon": "020-1234567",
+    "coördinaten": {
+      "latitude": 52.3738,
+      "longitude": 4.8970
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Rotterdam",
+    "adres": "Coolsingel 10, 3012 AB Rotterdam",
+    "telefoon": "010-2345678",
+    "coördinaten": {
+      "latitude": 51.9225,
+      "longitude": 4.4818
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Utrecht",
+    "adres": "Vredenburg 23, 3511 BC Utrecht",
+    "telefoon": "030-9876543",
+    "coördinaten": {
+      "latitude": 52.0905,
+      "longitude": 5.1217
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Eindhoven",
+    "adres": "Heuvel 7, 5611 EM Eindhoven",
+    "telefoon": "040-7654321",
+    "coördinaten": {
+      "latitude": 51.4401,
+      "longitude": 5.4771
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Den Haag",
+    "adres": "Spui 1, 2511 BD Den Haag",
+    "telefoon": "070-8765432",
+    "coördinaten": {
+      "latitude": 52.0782,
+      "longitude": 4.3137
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Groningen",
+    "adres": "Grote Markt 11, 9712 HS Groningen",
+    "telefoon": "050-2345678",
+    "coördinaten": {
+      "latitude": 53.2191,
+      "longitude": 6.5669
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Maastricht",
+    "adres": "Maastrichtstraat 5, 6211 BL Maastricht",
+    "telefoon": "043-1234567",
+    "coördinaten": {
+      "latitude": 50.8491,
+      "longitude": 5.6880
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Tilburg",
+    "adres": "Heuvelring 3, 5038 CP Tilburg",
+    "telefoon": "013-3456789",
+    "coördinaten": {
+      "latitude": 51.5550,
+      "longitude": 5.0910
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Almere",
+    "adres": "Lelystadweg 22, 1311 AN Almere",
+    "telefoon": "036-7654321",
+    "coördinaten": {
+      "latitude": 52.3750,
+      "longitude": 5.2244
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Zwolle",
+    "adres": "Diezerstraat 5, 8011 RH Zwolle",
+    "telefoon": "038-5678901",
+    "coördinaten": {
+      "latitude": 52.5150,
+      "longitude": 6.0891
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Amersfoort",
+    "adres": "Eemplein 12, 3812 EA Amersfoort",
+    "telefoon": "033-9876543",
+    "coördinaten": {
+      "latitude": 52.1582,
+      "longitude": 5.3811
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Rotterdam Alexandrium",
+    "adres": "Alexandrium 1, 3067 CD Rotterdam",
+    "telefoon": "010-2341234",
+    "coördinaten": {
+      "latitude": 51.9505,
+      "longitude": 4.5413
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Leiden",
+    "adres": "Breestraat 7, 2311 CG Leiden",
+    "telefoon": "071-3456789",
+    "coördinaten": {
+      "latitude": 52.1608,
+      "longitude": 4.4974
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Rotterdam Zuidplein",
+    "adres": "Zuidplein 50, 3083 AB Rotterdam",
+    "telefoon": "010-5678901",
+    "coördinaten": {
+      "latitude": 51.8882,
+      "longitude": 4.4942
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Amsterdam Osdorp",
+    "adres": "Osdorperplein 30, 1068 TG Amsterdam",
+    "telefoon": "020-8765432",
+    "coördinaten": {
+      "latitude": 52.3476,
+      "longitude": 4.8065
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King The Hague",
+    "adres": "Noordeinde 10, 2514 GA Den Haag",
+    "telefoon": "070-2345678",
+    "coördinaten": {
+      "latitude": 52.0810,
+      "longitude": 4.3128
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Leeuwarden",
+    "adres": "Zaailand 12, 8911 CG Leeuwarden",
+    "telefoon": "058-3456789",
+    "coördinaten": {
+      "latitude": 53.2015,
+      "longitude": 5.7992
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Groningen",
+    "adres": "Grote Markt 4, 9712 HT Groningen",
+    "telefoon": "050-9876543",
+    "coördinaten": {
+      "latitude": 53.2190,
+      "longitude": 6.5663
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Amersfoort Centrum",
+    "adres": "Stadsring 15, 3811 AD Amersfoort",
+    "telefoon": "033-8765432",
+    "coördinaten": {
+      "latitude": 52.1584,
+      "longitude": 5.3820
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Amsterdam Arena",
+    "adres": "Arena Boulevard 100, 1101 DS Amsterdam",
+    "telefoon": "020-1234567",
+    "coördinaten": {
+      "latitude": 52.3058,
+      "longitude": 4.9446
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Rotterdam Alexander",
+    "adres": "Alexanderstraat 22, 3067 DG Rotterdam",
+    "telefoon": "010-2345678",
+    "coördinaten": {
+      "latitude": 51.9472,
+      "longitude": 4.5389
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Amsterdam Zuid-Oost",
+    "adres": "Boven 't Y 4, 1102 AA Amsterdam",
+    "telefoon": "020-7654321",
+    "coördinaten": {
+      "latitude": 52.3121,
+      "longitude": 4.9404
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Breda",
+    "adres": "Reigerstraat 10, 4811 DJ Breda",
+    "telefoon": "076-2345678",
+    "coördinaten": {
+      "latitude": 51.5903,
+      "longitude": 4.7727
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Rotterdam Centrum",
+    "adres": "Meent 45, 3011 JM Rotterdam",
+    "telefoon": "010-5678901",
+    "coördinaten": {
+      "latitude": 51.9229,
+      "longitude": 4.4830
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Almelo",
+    "adres": "Westerstraat 5, 7607 AZ Almelo",
+    "telefoon": "0546-123456",
+    "coördinaten": {
+      "latitude": 52.3692,
+      "longitude": 6.6619
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Rotterdam Oosterflank",
+    "adres": "Oosterflank 9, 3062 NC Rotterdam",
+    "telefoon": "010-7654321",
+    "coördinaten": {
+      "latitude": 51.9433,
+      "longitude": 4.5383
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Delft",
+    "adres": "Vesteplein 1, 2611 DS Delft",
+    "telefoon": "015-2345678",
+    "coördinaten": {
+      "latitude": 52.0117,
+      "longitude": 4.3605
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Deventer",
+    "adres": "Keizerstraat 7, 7411 AJ Deventer",
+    "telefoon": "0570-765432",
+    "coördinaten": {
+      "latitude": 52.2540,
+      "longitude": 6.1444
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Maastricht Wittevrouwenveld",
+    "adres": "Sittardstraat 25, 6224 AM Maastricht",
+    "telefoon": "043-1234567",
+    "coördinaten": {
+      "latitude": 50.8562,
+      "longitude": 5.7087
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Venlo",
+    "adres": "Molenbeekplein 5, 5911 BN Venlo",
+    "telefoon": "077-2345678",
+    "coördinaten": {
+      "latitude": 51.3680,
+      "longitude": 6.1729
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Zoetermeer",
+    "adres": "Zuidweg 55, 2713 LX Zoetermeer",
+    "telefoon": "079-3456789",
+    "coördinaten": {
+      "latitude": 52.0707,
+      "longitude": 4.4879
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Assen",
+    "adres": "Hoofdstraat 25, 9401 JS Assen",
+    "telefoon": "0592-234567",
+    "coördinaten": {
+      "latitude": 52.9925,
+      "longitude": 6.5631
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Amsterdam Centraal",
+    "adres": "Stationsplein 1, 1012 AB Amsterdam",
+    "telefoon": "020-7654321",
+    "coördinaten": {
+      "latitude": 52.3797,
+      "longitude": 4.9009
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Enschede",
+    "adres": "Van Heekplein 18, 7511 EC Enschede",
+    "telefoon": "053-9876543",
+    "coördinaten": {
+      "latitude": 52.2670,
+      "longitude": 6.8972
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Roermond",
+    "adres": "Stationsplein 2, 6041 GX Roermond",
+    "telefoon": "0475-234567",
+    "coördinaten": {
+      "latitude": 51.2009,
+      "longitude": 5.9927
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Lelystad",
+    "adres": "Agora 16, 8211 CB Lelystad",
+    "telefoon": "0320-123456",
+    "coördinaten": {
+      "latitude": 52.2710,
+      "longitude": 5.4675
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Apeldoorn",
+    "adres": "Hoofdstraat 12, 7311 EC Apeldoorn",
+    "telefoon": "055-7654321",
+    "coördinaten": {
+      "latitude": 52.2113,
+      "longitude": 5.9692
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Wageningen",
+    "adres": "Costerweg 10, 6701 AA Wageningen",
+    "telefoon": "0317-234567",
+    "coördinaten": {
+      "latitude": 51.9741,
+      "longitude": 5.6697
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Subway Amsterdam Centraal",
+    "adres": "Stationsplein 1, 1012 AB Amsterdam",
+    "telefoon": "020-1234567",
+    "coördinaten": {
+      "latitude": 52.3797,
+      "longitude": 4.9009
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Rotterdam Centraal",
+    "adres": "Stationsplein 1, 3013 AJ Rotterdam",
+    "telefoon": "010-2345678",
+    "coördinaten": {
+      "latitude": 51.9206,
+      "longitude": 4.4818
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Utrecht",
+    "adres": "Vredenburg 15, 3511 BC Utrecht",
+    "telefoon": "030-9876543",
+    "coördinaten": {
+      "latitude": 52.0905,
+      "longitude": 5.1217
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Eindhoven",
+    "adres": "Heuvel 10, 5611 EN Eindhoven",
+    "telefoon": "040-7654321",
+    "coördinaten": {
+      "latitude": 51.4401,
+      "longitude": 5.4771
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Den Haag",
+    "adres": "Spui 5, 2511 BD Den Haag",
+    "telefoon": "070-8765432",
+    "coördinaten": {
+      "latitude": 52.0782,
+      "longitude": 4.3137
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Groningen",
+    "adres": "Grote Markt 5, 9712 HS Groningen",
+    "telefoon": "050-2345678",
+    "coördinaten": {
+      "latitude": 53.2191,
+      "longitude": 6.5669
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Maastricht",
+    "adres": "Maastrichtstraat 10, 6211 BL Maastricht",
+    "telefoon": "043-1234567",
+    "coördinaten": {
+      "latitude": 50.8491,
+      "longitude": 5.6880
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Tilburg",
+    "adres": "Heuvelring 6, 5038 CP Tilburg",
+    "telefoon": "013-3456789",
+    "coördinaten": {
+      "latitude": 51.5550,
+      "longitude": 5.0910
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Almere",
+    "adres": "Lelystadweg 20, 1311 AN Almere",
+    "telefoon": "036-7654321",
+    "coördinaten": {
+      "latitude": 52.3750,
+      "longitude": 5.2244
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Zwolle",
+    "adres": "Diezerstraat 8, 8011 RH Zwolle",
+    "telefoon": "038-5678901",
+    "coördinaten": {
+      "latitude": 52.5150,
+      "longitude": 6.0891
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Amersfoort",
+    "adres": "Eemplein 10, 3812 EA Amersfoort",
+    "telefoon": "033-9876543",
+    "coördinaten": {
+      "latitude": 52.1582,
+      "longitude": 5.3811
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Rotterdam Alexandrium",
+    "adres": "Alexandrium 2, 3067 CD Rotterdam",
+    "telefoon": "010-2341234",
+    "coördinaten": {
+      "latitude": 51.9505,
+      "longitude": 4.5413
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Leiden",
+    "adres": "Breestraat 10, 2311 CG Leiden",
+    "telefoon": "071-3456789",
+    "coördinaten": {
+      "latitude": 52.1608,
+      "longitude": 4.4974
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Rotterdam Zuidplein",
+    "adres": "Zuidplein 40, 3083 AB Rotterdam",
+    "telefoon": "010-5678901",
+    "coördinaten": {
+      "latitude": 51.8882,
+      "longitude": 4.4942
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Amsterdam Osdorp",
+    "adres": "Osdorperplein 10, 1068 TG Amsterdam",
+    "telefoon": "020-8765432",
+    "coördinaten": {
+      "latitude": 52.3476,
+      "longitude": 4.8065
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway The Hague",
+    "adres": "Noordeinde 5, 2514 GA Den Haag",
+    "telefoon": "070-2345678",
+    "coördinaten": {
+      "latitude": 52.0810,
+      "longitude": 4.3128
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Leeuwarden",
+    "adres": "Zaailand 10, 8911 CG Leeuwarden",
+    "telefoon": "058-3456789",
+    "coördinaten": {
+      "latitude": 53.2015,
+      "longitude": 5.7992
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Apeldoorn",
+    "adres": "Hoofdstraat 15, 7311 EC Apeldoorn",
+    "telefoon": "055-7654321",
+    "coördinaten": {
+      "latitude": 52.2113,
+      "longitude": 5.9692
+    },
+    "brand": "Subway"
+  },
+  {
+    "naam": "Subway Wageningen",
+    "adres": "Costerweg 15, 6701 AA Wageningen",
+    "telefoon": "0317-234567",
+    "coördinaten": {
+      "latitude": 51.9741,
+      "longitude": 5.6697
+    },
+    "brand": "Subway"
   }
 ]
