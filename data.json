@@ -1128,5 +1128,215 @@
       "longitude": 5.6697
     },
     "brand": "Subway"
+  },
+  {
+    "naam": "KFC Vlaardingen Centrum",
+    "adres": "Hoogstraat 95, 3131 BL Vlaardingen",
+    "telefoon": "010-1234567",
+    "coördinaten": {
+      "latitude": 51.9123,
+      "longitude": 4.3421
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Vlaardingen Centrum",
+    "adres": "Hoogstraat 95, 3131 BL Vlaardingen",
+    "telefoon": "010-1234567",
+    "coördinaten": {
+      "latitude": 51.9123,
+      "longitude": 4.3421
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Vlaardingen Holy",
+    "adres": "Reigerlaan 22, 3136 JH Vlaardingen",
+    "telefoon": "010-1234568",
+    "coördinaten": {
+      "latitude": 51.9265,
+      "longitude": 4.3591
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Vlaardingen Westwijk",
+    "adres": "Florijngracht 7, 3137 PD Vlaardingen",
+    "telefoon": "010-1234569",
+    "coördinaten": {
+      "latitude": 51.9240,
+      "longitude": 4.3112
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "KFC Vettenoordsepolder",
+    "adres": "2e Industriestraat 15, 3133 EJ Vlaardingen",
+    "telefoon": "010-1234570",
+    "coördinaten": {
+      "latitude": 51.9025,
+      "longitude": 4.3345
+    },
+    "brand": "KFC"
+  },
+  {
+    "naam": "Burger King Vlaardingen West",
+    "adres": "Van Hogendorplaan 85, 3135 BK Vlaardingen",
+    "telefoon": "010-2345678",
+    "coördinaten": {
+      "latitude": 51.9165,
+      "longitude": 4.3168
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Vlaardingen Centrumplein",
+    "adres": "Fransenstraat 10, 3131 CC Vlaardingen",
+    "telefoon": "010-2345679",
+    "coördinaten": {
+      "latitude": 51.9111,
+      "longitude": 4.3419
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Vlaardingen Oostwijk",
+    "adres": "Vondelstraat 45, 3135 TB Vlaardingen",
+    "telefoon": "010-2345680",
+    "coördinaten": {
+      "latitude": 51.9190,
+      "longitude": 4.3284
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Deltaweg",
+    "adres": "Deltaweg 90, 3136 LR Vlaardingen",
+    "telefoon": "010-2345681",
+    "coördinaten": {
+      "latitude": 51.9253,
+      "longitude": 4.3532
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "Burger King Vlaardingen West",
+    "adres": "Van Hogendorplaan 85, 3135 BK Vlaardingen",
+    "telefoon": "010-2345678",
+    "coördinaten": {
+      "latitude": 51.9165,
+      "longitude": 4.3168
+    },
+    "brand": "Burger King"
+  },
+  {
+    "naam": "McDonald's Vlaardingen Oost",
+    "adres": "Zwanensingel 2, 3136 GZ Vlaardingen",
+    "telefoon": "010-3456789",
+    "coördinaten": {
+      "latitude": 51.9187,
+      "longitude": 4.3662
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Vlaardingen Oost",
+    "adres": "Zwanensingel 2, 3136 GZ Vlaardingen",
+    "telefoon": "010-3456789",
+    "coördinaten": {
+      "latitude": 51.9187,
+      "longitude": 4.3662
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Vlaardingen Centrum",
+    "adres": "Markt 12, 3131 CR Vlaardingen",
+    "telefoon": "010-3456790",
+    "coördinaten": {
+      "latitude": 51.9113,
+      "longitude": 4.3401
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Vlaardingen Westwijkplein",
+    "adres": "Lissabonweg 5, 3137 LP Vlaardingen",
+    "telefoon": "010-3456791",
+    "coördinaten": {
+      "latitude": 51.9267,
+      "longitude": 4.3135
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "McDonald's Buys Ballotlaan",
+    "adres": "Buys Ballotlaan 99, 3132 TN Vlaardingen",
+    "telefoon": "010-3456792",
+    "coördinaten": {
+      "latitude": 51.9066,
+      "longitude": 4.3282
+    },
+    "brand": "McDonald's"
+  },
+  {
+    "naam": "Domino's Pizza Vlaardingen",
+    "adres": "Veerplein 20, 3131 CN Vlaardingen",
+    "telefoon": "010-4567890",
+    "coördinaten": {
+      "latitude": 51.9115,
+      "longitude": 4.3410
+    },
+    "brand": "Domino's"
+  },
+  {
+    "naam": "Domino's Vlaardingen Holy",
+    "adres": "Holysingel 120, 3136 LE Vlaardingen",
+    "telefoon": "010-4567891",
+    "coördinaten": {
+      "latitude": 51.9263,
+      "longitude": 4.3610
+    },
+    "brand": "Domino's"
+  },
+  {
+    "naam": "Domino's Vlaardingen Deltaweg",
+    "adres": "Deltaweg 45A, 3136 LR Vlaardingen",
+    "telefoon": "010-4567892",
+    "coördinaten": {
+      "latitude": 51.9241,
+      "longitude": 4.3524
+    },
+    "brand": "Domino's"
+  },
+  {
+    "naam": "Domino's Vlaardingen West",
+    "adres": "Boerhaavestraat 3, 3132 BL Vlaardingen",
+    "telefoon": "010-4567893",
+    "coördinaten": {
+      "latitude": 51.9068,
+      "longitude": 4.3205
+    },
+    "brand": "Domino's"
+  },
+  {
+    "naam": "Domino's Pizza Vlaardingen",
+    "adres": "Veerplein 20, 3131 CN Vlaardingen",
+    "telefoon": "010-4567890",
+    "coördinaten": {
+      "latitude": 51.9115,
+      "longitude": 4.3410
+    },
+    "brand": "Domino's"
+  },
+  {
+    "naam": "Testlocatie Sparrendreef",
+    "adres": "Sparrendreef 10, 3137 CN Vlaardingen",
+    "telefoon": "010-0000000",
+    "coördinaten": {
+      "latitude": 51.9260,
+      "longitude": 4.3199
+    },
+    "brand": "TestBrand"
   }
 ]
