@@ -1338,5 +1338,15 @@
       "longitude": 4.342250096708477
     },
     "brand": "TestBrand"
+  },
+  {
+    "naam": "Testlocatie Sparrendreef",
+    "adres": "Sparrendreef , 3137 CN Vlaardingen",
+    "telefoon": "010-0000000",
+    "coördinaten": {
+      "latitude": 51.93784565830849,
+      "longitude": 4.342025132317631
+    },
+    "brand": "TestBrand"
   }
 ]
